@@ -1,0 +1,3 @@
+rootProject.name = 'hook_3849'
+
+include ':app'
